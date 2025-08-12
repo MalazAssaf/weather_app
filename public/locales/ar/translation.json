@@ -1,0 +1,45 @@
+{
+    "min": "الصغرى",
+    "max": "الكبرى",
+    "clear sky": "سماء صافية",
+    "few clouds": "غيوم قليلة",
+    "scattered clouds": "غيوم متناثرة",
+    "broken clouds": "غيوم متقطعة",
+    "shower rain": "زخات مطر",
+    "rain": "مطر",
+    "thunderstorm": "عاصفة رعدية",
+    "snow": "ثلج",
+    "mist": "ضباب",
+
+    "Riyadh": "الرياض",
+    "Jeddah": "جدة",
+    "Dammam": "الدمام",
+    "Mecca": "مكة",
+    "Medina": "المدينة",
+
+    "Damascus": "دمشق",
+    "Aleppo": "حلب",
+    "Homs": "حمص",
+    "Latakia": "اللاذقية",
+    "Tartus": "طرطوس",
+
+    "Cairo": "القاهرة",
+
+    "London": "لندن",
+    "Paris": "باريس",
+    "Washington": "واشنطن",
+    "Tokyo": "طوكيو",
+    "Beijing": "بكين",
+
+    "Berlin": "برلين",
+    "Munich": "ميونخ",
+    "Hamburg": "هامبورغ",
+    "Cologne": "كولونيا",
+    "Frankfurt": "فرانكفورت",
+    "Stuttgart": "شتوتغارت",
+    "Dresden": "درسدن",
+    "Leipzig": "لايبزيغ",
+    "Passau": "باساو",
+    "Landau":"لانداو", 
+    "Regensburg": "ريغنسبورغ"
+}
