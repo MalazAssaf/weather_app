@@ -51,16 +51,6 @@ body{
   font-weight: 900;
 }
 
-.container{
-  height: 100vh !important;
-}
-
-@media (max-width: 528px){
-  .container{
-    height: 100% !important;
-  }
-}
-
 .dateAndTime{
   display: flex !important;
   flex-direction: row !important;
