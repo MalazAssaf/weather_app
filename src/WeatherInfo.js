@@ -1,7 +1,7 @@
 // REACT
 import { useEffect, useState, useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchWeather, setLocation } from "./app/weatherSlice";
+import { fetchWeather, setLocation } from "./weatherSlice";
 
 // MATERIAL UI
 import Container from "@mui/material/Container";
@@ -20,7 +20,6 @@ import { useTranslation } from "react-i18next";
 
 // Css
 import "./App.css";
-
 export default function WeatherInfo() {
   const dispatch = useDispatch();
   const { weather, isLoading, error } = useSelector((state) => state.weather);
